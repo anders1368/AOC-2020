@@ -1,7 +1,0 @@
-1 shiny gold, 2 dark red bags
-1 dark red, 2 dark orange bags
-1 dark orange, 2 dark yellow bags
-1 dark yellow, 2 dark green bags
-1 dark green, 2 dark blue bags
-1 dark blue, 2 dark violet bags
-1 dark violet, 0 empty other bags
